@@ -2,7 +2,7 @@
 
 This type of Question must be complete here :- 
              What is it ?
-             Why invent data science 
+             Why invent data science  
              Who invent data science 
              What are the key component are  present in data science 
              what do data science 
